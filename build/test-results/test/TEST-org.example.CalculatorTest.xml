@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-24T07:16:54" hostname="DESKTOP-BJDNFEF" time="0.025">
+  <properties/>
+  <testcase name="Let's check the multiplication process" classname="org.example.CalculatorTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
